@@ -1,9 +1,9 @@
 # SunderMusic
 
-[![GitHub issues](https://img.shields.io/github/issues/Drag0ni/SunderMusic)](https://github.com/Drag0ni/SunderMusic/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Drag0ni/SunderMusic)](https://github.com/Drag0ni/SunderMusic/network)
-[![GitHub stars](https://img.shields.io/github/stars/Drag0ni/SunderMusic)](https://github.com/Drag0ni/SunderMusic/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Drag0ni/SunderMusic)](https://github.com/Drag0ni/SunderMusic/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/network)
+[![GitHub stars](https://img.shields.io/github/stars/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Driics/SunderMusic)](https://github.com/Driics/SunderMusic)
 [![CodeFactor](https://www.codefactor.io/repository/github/drag0ni/sundermusic/badge)](https://www.codefactor.io/repository/github/drag0ni/sundermusic)
 
 ## Преимущества
