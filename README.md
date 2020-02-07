@@ -1,4 +1,4 @@
-# SunderMusic![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Driics/SunderMusic)
+# SunderMusic [![GitHub version (latest SemVer)](https://img.shields.io/github/v/release/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/releases)
 
 [![GitHub issues](https://img.shields.io/github/issues/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Driics/SunderMusic)](https://github.com/Driics/SunderMusic/network)
